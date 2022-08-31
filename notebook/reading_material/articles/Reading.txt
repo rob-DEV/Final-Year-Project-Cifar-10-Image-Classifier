@@ -1,0 +1,8 @@
+https://kenndanielso.github.io/mlrefined/blog_posts/14_Convolutional_networks/14_2_Edge_histogram_based_features.html
+https://medium.com/analytics-vidhya/2d-convolution-using-python-numpy-43442ff5f381
+https://github.com/martinkersner/cs231n/blob/master/assignment1/k_nearest_neighbor.py
+https://numpy.org/doc/stable/reference/generated/numpy.pad.html
+https://www.cs.auckland.ac.nz/courses/compsci373s1c/PatricesLectures/Edge%20detection-Sobel_2up.pdf
+https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+https://www.scielo.br/j/rsocp/a/RWjPthhKDYbFQYydbDr3MgH/?format=pdf&lang=en
+http://www.geocities.ws/talh_davidc/#cst_extract

@@ -1,6 +1,7 @@
 # FYP CIFAR-10 Image Classifier
 
 Final Year Project aiming to research and implement feature extraction and image classification techniques.
+This does not contain the feature extraction data or trained models which is 3GB+.
 
 * Loading of CIFAR-10 dataset and pre processing
 * HOG feature extraction and visualization
